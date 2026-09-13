@@ -1,0 +1,1 @@
+{"id":"bf08e44c8f1e4ab906c1c43d268bfb1a","fullName":"tests.unit_tests.test_startup_check_gpio_shutdown#test_failed_systemctl_is_tolerated","name":"test_failed_systemctl_is_tolerated","status":"passed","testResultsByEnv":{"default":"ed30287b0d098479aac642eb41b951c1"}}
