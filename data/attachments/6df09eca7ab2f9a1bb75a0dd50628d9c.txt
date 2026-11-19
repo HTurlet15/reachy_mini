@@ -1,0 +1,2 @@
+INFO     logs_job_d715ecfe-6442-4b10-8a65-025ea98a2812:test_bg_job_register.py:93 working
+INFO     logs_job_d715ecfe-6442-4b10-8a65-025ea98a2812:bg_job_register.py:102 Job 'test' completed successfully

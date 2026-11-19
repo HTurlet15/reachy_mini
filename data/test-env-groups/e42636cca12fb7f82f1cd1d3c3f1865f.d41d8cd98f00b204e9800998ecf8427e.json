@@ -1,0 +1,1 @@
+{"id":"e42636cca12fb7f82f1cd1d3c3f1865f.d41d8cd98f00b204e9800998ecf8427e","fullName":"tests.unit_tests.test_nfc#test_a_stop_during_a_long_job_still_ends_the_thread","name":"test_a_stop_during_a_long_job_still_ends_the_thread","status":"passed","testResultsByEnv":{"default":"b84b377cc7e436e9655c9aefe2b3d70f"}}
